@@ -24,4 +24,3 @@ Students may be unwilling to participate in their pods
 As a TF, your role is to guide students through questions and problems (you do not need to know all the answers)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/1.jpg)](https://youtu.be/yFt0LLHfEmk "Prompt 2")
-https://youtu.be/yFt0LLHfEmk
